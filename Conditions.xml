@@ -12,6 +12,7 @@
             <I PROPERTY="AdvectionType" VALUE="WeakDG" />
             <I PROPERTY="TimeIntegrationMethod" VALUE="ClassicalRungeKutta4" />
             <I PROPERTY="UpwindType" VALUE="LaxFriedrichs" />
+            <I PROPERTY="GlobalSysSoln" VALUE="IterativeFull" />
         </SOLVERINFO>
         <PARAMETERS>
             <P> TimeStep=4E-8 </P>
