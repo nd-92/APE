@@ -1,3 +1,6 @@
 Absorption/*.fld
 BaseFlow/*.fld
 Mesh.xml
+*.dat
+*.chk
+*.tgz
